@@ -1,0 +1,33 @@
+{
+"datas": [
+      {
+         "name":"Nanneboina",
+         "dob":"24/08/2000",
+         "email":"nanneboina@gmail.com",
+         "password":"12345",
+         "mobno":6303363033
+      },
+      {
+         "name":"sumanth",
+         "dob":"25/08/2000",
+         "email":"sumanth@gmail.com",
+         "password":"98765",
+         "mobno":9705497054
+      },
+      {
+         "name":"kaar",
+         "dob":"26/08/2000",
+         "email":"kaar@gmail.com",
+         "password":"01234",
+         "mobno":9765097650
+      },
+      {
+         "name":"rit",
+         "dob":"27/08/2000",
+         "email":"rit@gmail.com",
+         "password":"12300",
+         "mobno":6306302244
+      }
+      
+      ]
+}
